@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#5C00A2;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:17;stroke-miterlimit:10;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#5B007A;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#5B007A;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+	.st5{fill:#5B007A;stroke:#FFFFFF;stroke-width:17;stroke-miterlimit:10;}
+	.st6{fill:#5B007A;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+	.st7{fill:#5B007A;stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st9{font-family:'MyriadPro-Regular';}
+	.st10{font-size:110px;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st12{fill:#5B007A;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st13{font-size:100px;}
+</style>
+<g>
+	<path class="st0" d="M381.8,837.5c-37.7,0-68.3-30.7-68.3-68.3V268.5h737v485.1c0,46.3-37.6,83.9-83.9,83.9H381.8z"/>
+	<path class="st1" d="M1050,269v484.6c0,46-37.4,83.4-83.4,83.4H381.8c-37.4,0-67.8-30.4-67.8-67.8V269H1050 M1051,268H313v501.2
+		c0,38,30.8,68.8,68.8,68.8h584.7c46.6,0,84.4-37.8,84.4-84.4V268L1051,268z"/>
+</g>
+<g>
+	<line class="st2" x1="314" y1="349.5" x2="730.5" y2="348.5"/>
+	<line class="st3" x1="314" y1="349.5" x2="730.5" y2="348.5"/>
+</g>
+<circle class="st4" cx="804.5" cy="350.5" r="12.5"/>
+<line class="st5" x1="881.5" y1="349.5" x2="1052" y2="349.5"/>
+<ellipse class="st6" cx="396.5" cy="301.5" rx="17.5" ry="21.5"/>
+<ellipse class="st6" cx="471.5" cy="302.5" rx="17.5" ry="21.5"/>
+<ellipse class="st6" cx="536.5" cy="303.5" rx="17.5" ry="21.5"/>
+<line class="st7" x1="758" y1="289" x2="903" y2="290"/>
+<text transform="matrix(1 0 0 1 471.0933 524.3955)"><tspan x="0" y="0" class="st8 st9 st10">Booking </tspan><tspan x="0" y="132" class="st8 st9 st10">          </tspan></text>
+<g>
+	<line class="st11" x1="624.5" y1="649.5" x2="899" y2="647.5"/>
+	<line class="st3" x1="624.5" y1="649.5" x2="899" y2="647.5"/>
+</g>
+<line class="st12" x1="625.5" y1="723.5" x2="896" y2="721.5"/>
+<line class="st12" x1="630" y1="765.5" x2="898" y2="766.5"/>
+<line class="st12" x1="623.5" y1="683.5" x2="896" y2="682.5"/>
+<text transform="matrix(1 0 0 1 707.7451 587.915)" class="st8 st9 st13">       Trip</text>
+</svg>

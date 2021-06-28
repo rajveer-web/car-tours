@@ -1,0 +1,67 @@
+<?php
+	require_once("functions/function.php");
+	get_header();
+	get_sidebar();
+	get_bread_six();
+?>
+
+<html>
+<head>
+	<title>Add Data</title>
+	<script type="text/javascript">
+		function validate() {
+			if (document.form1.name.value == '') {
+				alert('Please provide your name');
+				document.form1.name.focus();				
+				return false;
+			}
+			if (document.form1.email.value == '') {
+				alert('Please provide your email');
+				document.form1.email.focus();
+				return false;
+			}
+			return true;
+		}
+	</script>	
+</head>
+
+<body>
+<center>
+	<div style="width: 60%; background:pink;">
+	<a href="index.php">Home</a>
+	<br/><br/>
+	<div id="msg"></div>
+	<!--<form action="add.php" method="post" name="form1" onsubmit = "return(validate());">-->
+	<form action="add.php" method="post" name="form1" >
+		<table width="25%" border="0">
+			<tr> 
+				<td>Name</td>
+				<td><input type="text" name="name"></td>
+			</tr>
+			<tr> 
+				<td>Image</td>
+				<td><input type="file" name="image"></td>
+			</tr>
+
+			<tr> 
+				<td>Detail</td>
+				<td><input type="text" name="detail"></td>
+			</tr>
+
+			<tr> 
+				<td>Description</td>
+				<td><textarea name="desp"></textarea></td>
+			</tr>
+
+			
+			<tr> 
+				<td></td>
+				<td><input type="submit" name="Submit" value="Add New"></td>
+			</tr>
+		</table>
+	</form>
+	</div>
+	</center>
+</body>
+</html>
+

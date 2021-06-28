@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#352FC2;}
+	.st2{clip-path:url(#SVGID_3_);}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:275.9251px;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<rect x="648.2" y="195.5" class="st0" width="31.3" height="1"/>
+<rect x="559" y="171" class="st0" width="243.6" height="247"/>
+<g>
+	<g>
+		<ellipse id="SVGID_1_" class="st1" cx="182.1" cy="254.5" rx="114.1" ry="123"/>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<ellipse id="SVGID_2_" cx="182.1" cy="254.5" rx="114.1" ry="123"/>
+			</defs>
+			<clipPath id="SVGID_3_">
+				<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st2">
+				<text transform="matrix(1.0581 0 0 1 141.0711 377.3506)" class="st3 st4 st5">f</text>
+				<text transform="matrix(1.0581 0 0 1 141.0711 377.3506)" class="st6 st4 st5">f</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
